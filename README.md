@@ -1,18 +1,37 @@
 # Password-challenge-
 
-# Description
+## Description
 This application helps the user generate a "secure" randomized password to be used for all of their password needs. Using if statements, for loops, and functions, it generates a unique password that contains lowercase and uppercase letters, numbers, and special characters! 
 
-Screenshot
+## Usage
+To use this website, simply click on the "Generate Password" button. Prompts will begin appearing asking you different questions about your password such as password length and character type. Once you have completed all of the prompts, a randomized password will appear on the screen! 
+
+## Screenshot
 ![alt text](/assets/images/screenshotupdated.png)
 
-Live Link!
+## Live Link!
+https://flanhart.github.io/Password-challenge-/
 
-License
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
-:trophy: The sections listed above are the minimum for a high-quality README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-Badges
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by shields.io. You may not understand what they all represent now, but you will in time.
-Features
-If your project has a lot of features, consider adding a heading called "Features" and list them there.
-Contributing
+## github link!
+https://github.com/flanhart/Password-challenge-
+
+## License
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
